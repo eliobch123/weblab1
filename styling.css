@@ -1,0 +1,49 @@
+#image{
+    height: 500px;
+    width: 500px;
+    float: right;
+
+}
+.c1{
+    color: gray;
+}
+.c2{
+    color: blue;
+}
+.c-4{
+    color: gray;
+    font-size: 30px;
+}
+.c-5{
+    color: red;
+}
+.c-6{
+    list-style-type: lower-roman;
+}
+#q1{
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+#q2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+#q3{
+    font-family: "sans-serif"; 
+}
+table{
+    border: 1px double red;
+}
+#contact{
+    background-color: green;
+    position: fixed;
+    bottom: 0;
+}
+a{
+    text-decoration: none;
+
+}
+a:hover{
+
+    color: green;
+    text-decoration: underline;
+
+}
